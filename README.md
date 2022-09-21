@@ -27,6 +27,8 @@ Decidi acrescentar alguns detalhes a mais no projeto:
   3. Deixei a aplicação <strong>RESPONSIVA</strong>;
      
       - Procurando respeitar e manter o design do projeto original;
+      
+  4. Adicionei um <strong>FAVICON</strong>, como instruído
 
  ### Atualizei o <strong>FIGMA</strong> para melhor visualização da ideia;
  <details>
@@ -42,7 +44,7 @@ Decidi acrescentar alguns detalhes a mais no projeto:
 
    <summary>Projeto funcionando</summary>
    <br/>
-   <a href="" target="_blank">Fique focado!</a>
+   <a href="https://vmpilustra.github.io/Focus-Timer-2.0/" target="_blank">Fique focado!</a>
 
  </details>
  
