@@ -33,7 +33,7 @@ Decidi acrescentar alguns detalhes a mais no projeto:
 
    <summary>Imagem e projeto aqui</summary>
    <br/>
-   <a href="https://www.figma.com/file/IhrnNTxySZzvAx4aAwVXpa/Stage-05---Focus-Timer-2.0?node-id=0%3A1" target="_blank"><img src="" width=450px/></a>
+   <a href="https://www.figma.com/file/IhrnNTxySZzvAx4aAwVXpa/Stage-05---Focus-Timer-2.0?node-id=0%3A1" target="_blank"><img src="https://github.com/VMPILUSTRA/Focus-Timer-2.0/blob/main/Figma.png" width=450px/></a>
 
  </details>
 
